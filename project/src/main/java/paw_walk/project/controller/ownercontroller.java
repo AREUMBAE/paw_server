@@ -1,8 +1,5 @@
 package paw_walk.project.controller;
 
-public class UserController {
-
-
+public class ownercontroller {
+    
 }
-
-
